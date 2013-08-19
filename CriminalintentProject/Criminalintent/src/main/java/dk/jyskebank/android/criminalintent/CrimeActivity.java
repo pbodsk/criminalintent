@@ -2,22 +2,23 @@ package dk.jyskebank.android.criminalintent;
 
 import android.os.Bundle;
 import android.app.Activity;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentActivity;
+import android.support.v4.app.FragmentManager;
 import android.view.Menu;
 
-public class CrimeActivity extends Activity {
+public class CrimeActivity extends FragmentActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_crime);
-    }
+        FragmentManager fragmentManager = getSupportFragmentManager();
+        Fragment fragment = fragmentManager.findFragmentById(R.id.fragmentContainer);
 
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.crime, menu);
-        return true;
+        if(fragment == null){
+            fragment = new CrimeFragment();
+            fragmentManager.beginTransaction().add(R.id.fragmentContainer, fragment).commit();
+        }
     }
-    
 }
