@@ -29,6 +29,11 @@
                 qualifiers=""
                 type="layout" />
             <file
+                name="fragment_crime"
+                path="/Users/jb3579/Documents/Programming/Java/Android/workspace/criminalintent/CriminalintentProject/Criminalintent/src/main/res/layout/fragment_crime.xml"
+                qualifiers=""
+                type="layout" />
+            <file
                 path="/Users/jb3579/Documents/Programming/Java/Android/workspace/criminalintent/CriminalintentProject/Criminalintent/src/main/res/values/dimens.xml"
                 qualifiers="" >
                 <dimen name="activity_horizontal_margin" >16dp
@@ -39,9 +44,15 @@
             <file
                 path="/Users/jb3579/Documents/Programming/Java/Android/workspace/criminalintent/CriminalintentProject/Criminalintent/src/main/res/values/strings.xml"
                 qualifiers="" >
-                <string name="app_name" >Criminalintent
+                <string name="crime_solved_label" >Solved?
                 </string>
                 <string name="crime_title_hint" >Enter a title for the crime
+                </string>
+                <string name="app_name" >Criminalintent
+                </string>
+                <string name="crime_details_label" >Details
+                </string>
+                <string name="crime_title_label" >Title
                 </string>
             </file>
             <file
@@ -96,8 +107,8 @@
             </file>
             <file
                 name="fragment_crime"
-                path="/Users/jb3579/Documents/Programming/Java/Android/workspace/criminalintent/CriminalintentProject/Criminalintent/src/main/res/layout/fragment_crime.xml"
-                qualifiers=""
+                path="/Users/jb3579/Documents/Programming/Java/Android/workspace/criminalintent/CriminalintentProject/Criminalintent/src/main/res/layout-land/fragment_crime.xml"
+                qualifiers="land"
                 type="layout" />
         </source>
         <source path="/Users/jb3579/Documents/Programming/Java/Android/workspace/criminalintent/CriminalintentProject/Criminalintent/build/res/rs/debug" />
