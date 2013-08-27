@@ -12,16 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dd13376-0c47-4c8a-93f6-a115c64721b3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Criminalintent/src/main/java/dk/jyskebank/android/criminalintent/Crime.java" afterPath="$PROJECT_DIR$/Criminalintent/src/main/java/dk/jyskebank/android/criminalintent/Crime.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Criminalintent/src/main/java/dk/jyskebank/android/criminalintent/CrimeFragment.java" afterPath="$PROJECT_DIR$/Criminalintent/src/main/java/dk/jyskebank/android/criminalintent/CrimeFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Criminalintent/Criminalintent.iml" afterPath="$PROJECT_DIR$/Criminalintent/Criminalintent.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Criminalintent/build/source/r/debug/dk/jyskebank/android/criminalintent/R.java" afterPath="$PROJECT_DIR$/Criminalintent/build/source/r/debug/dk/jyskebank/android/criminalintent/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Criminalintent/build/res/all/debug/layout/fragment_crime.xml" afterPath="$PROJECT_DIR$/Criminalintent/build/res/all/debug/layout/fragment_crime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Criminalintent/src/main/res/layout/fragment_crime.xml" afterPath="$PROJECT_DIR$/Criminalintent/src/main/res/layout/fragment_crime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Criminalintent/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/Criminalintent/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Criminalintent/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/Criminalintent/build/res/all/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Criminalintent.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,20 +88,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CrimeFragment.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="CrimeFragment.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Criminalintent/src/main/java/dk/jyskebank/android/criminalintent/CrimeFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="42" selection-start="2026" selection-end="2026" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065">
+            <state line="53" column="72" selection-start="1709" selection-end="1709" vertical-scroll-proportion="0.4918033" vertical-offset="525" max-vertical-offset="1095">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1822#2052#0" expanded="true" />
-                <element signature="e#2041#2042#0" expanded="true" />
+                <element signature="e#1947#2177#0" expanded="true" />
+                <element signature="e#2166#2167#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_crime.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="fragment_crime.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Criminalintent/src/main/res/layout-land/fragment_crime.xml">
           <provider selected="true" editor-type-id="android-designer">
             <state />
@@ -213,8 +204,8 @@
         <option value="$PROJECT_DIR$/Criminalintent/src/main/java/dk/jyskebank/android/criminalintent/Crime.java" />
         <option value="$PROJECT_DIR$/Criminalintent/src/main/res/layout/fragment_crime.xml" />
         <option value="$PROJECT_DIR$/Criminalintent/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/Criminalintent/src/main/java/dk/jyskebank/android/criminalintent/CrimeFragment.java" />
         <option value="$PROJECT_DIR$/Criminalintent/src/main/res/layout-land/fragment_crime.xml" />
+        <option value="$PROJECT_DIR$/Criminalintent/src/main/java/dk/jyskebank/android/criminalintent/CrimeFragment.java" />
       </list>
     </option>
   </component>
@@ -627,7 +618,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6709302" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32906976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32906976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -699,8 +690,8 @@
         <state line="37" column="55" selection-start="1231" selection-end="1231" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="840">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1822#2052#0" expanded="true" />
-            <element signature="e#2041#2042#0" expanded="true" />
+            <element signature="e#1947#2177#0" expanded="true" />
+            <element signature="e#2166#2167#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -745,15 +736,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Criminalintent/src/main/java/dk/jyskebank/android/criminalintent/Crime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="14" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Criminalintent/src/main/res/layout/fragment_crime.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -774,13 +756,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Criminalintent/src/main/java/dk/jyskebank/android/criminalintent/CrimeFragment.java">
+    <entry file="file://$PROJECT_DIR$/Criminalintent/src/main/java/dk/jyskebank/android/criminalintent/Crime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="42" selection-start="2026" selection-end="2026" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065">
+        <state line="10" column="14" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1822#2052#0" expanded="true" />
-            <element signature="e#2041#2042#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -793,6 +773,17 @@
         <state line="41" column="0" selection-start="1543" selection-end="1543" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="765">
           <folding>
             <element signature="e#1514#1542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Criminalintent/src/main/java/dk/jyskebank/android/criminalintent/CrimeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="72" selection-start="1709" selection-end="1709" vertical-scroll-proportion="0.4918033" vertical-offset="525" max-vertical-offset="1095">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1947#2177#0" expanded="true" />
+            <element signature="e#2166#2167#0" expanded="true" />
           </folding>
         </state>
       </provider>
