@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="dk.jyskebank.android.criminalintent.CrimeActivity"
+            android:name=".CrimePagerActivity"
             android:label="@string/app_name" >
         </activity>
         <activity

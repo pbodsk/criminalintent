@@ -36,7 +36,7 @@ public class CrimeListFragment extends ListFragment {
     public void onListItemClick(ListView l, View v, int position, long id) {
         Crime currentCrime = ((CrimeAdapter)getListAdapter()).getItem(position);
 
-        Intent intent = new Intent(getActivity(), CrimeActivity.class);
+        Intent intent = new Intent(getActivity(), CrimePagerActivity.class);
         intent.putExtra(CrimeFragment.EXTRA_CRIME_ID, currentCrime.getId());
         startActivity(intent);
     }

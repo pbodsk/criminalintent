@@ -53,9 +53,9 @@
                 </string>
                 <string name="crime_solved_label" >Solved?
                 </string>
-                <string name="app_name" >Criminalintent
-                </string>
                 <string name="crime_title_hint" >Enter a title for the crime
+                </string>
+                <string name="app_name" >Criminalintent
                 </string>
                 <string name="crime_details_label" >Details
                 </string>
@@ -117,6 +117,13 @@
                 path="/Users/jb3579/Documents/Programming/Java/Android/workspace/criminalintent/CriminalintentProject/Criminalintent/src/main/res/layout/list_item_crime.xml"
                 qualifiers=""
                 type="layout" />
+            <file
+                path="/Users/jb3579/Documents/Programming/Java/Android/workspace/criminalintent/CriminalintentProject/Criminalintent/src/main/res/values/ids.xml"
+                qualifiers="" >
+                <item
+                    name="viewPager"
+                    type="id"/>
+            </file>
         </source>
         <source path="/Users/jb3579/Documents/Programming/Java/Android/workspace/criminalintent/CriminalintentProject/Criminalintent/build/res/rs/debug" />
     </dataSet>

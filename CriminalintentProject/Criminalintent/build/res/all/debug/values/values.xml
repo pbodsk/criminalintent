@@ -4,6 +4,8 @@
     <!-- From: file:/Users/jb3579/Documents/Programming/Java/Android/workspace/criminalintent/CriminalintentProject/Criminalintent/src/main/res/values/dimens.xml -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/jb3579/Documents/Programming/Java/Android/workspace/criminalintent/CriminalintentProject/Criminalintent/src/main/res/values/ids.xml -->
+    <item name="viewPager" type="id"/>
     <!-- From: file:/Users/jb3579/Documents/Programming/Java/Android/workspace/criminalintent/CriminalintentProject/Criminalintent/src/main/res/values/strings.xml -->
     <string name="app_name">Criminalintent</string>
     <string name="crime_details_label">Details</string>
